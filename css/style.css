@@ -62,11 +62,12 @@ h1 {
 
 a{
   text-decoration: none;
-  font-weight 1.5em;
+  font-weight: 400;
 }
+
 a:hover{
 color:#FFFFFF;
-font-weight: bold;
+font-weight: 700;
 }
 
 h3{
